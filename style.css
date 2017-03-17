@@ -1,0 +1,36 @@
+.menubar{
+	background: coral;
+}
+
+.menubar ul{
+	list-style: none;
+}
+
+.img{
+	height: 60px;
+	margin-right: 400px;
+	
+}
+
+.menubar ul li{
+	display: inline-block;
+	border: none;
+	color: white;
+	margin: 10px;
+	padding: 10px;
+}
+
+.slidebar{
+	border: none;
+	width: 100%;
+	
+}
+
+.news{
+	border: none;
+	display: inline-block;
+	width: 30%;
+	margin: 5px 5px;
+	padding: 5px 5px;
+	text-align: justify;
+}
